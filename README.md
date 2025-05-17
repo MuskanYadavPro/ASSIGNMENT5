@@ -11,7 +11,7 @@
 - If the name is not found, it shows an appropriate message.
 
 ### 2. List Processing Program
-**🔹Filename:** `list_processing.py` (you can name your file accordingly)
+**🔹Filename:** `task2_list.py` (you can name your file accordingly)
 
 **Description:**
 - Creates a list of numbers from 1 to 10.
